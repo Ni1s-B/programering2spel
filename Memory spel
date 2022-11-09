@@ -1,6 +1,6 @@
-#Titel 
-##Memory spel
-#Bestkrivning
+# Titel 
+## Memory spel
+# Bestkrivning
 ###Spelet ugår på att man ska minas ett mönster och för varje nivå så kommer färgmönstret bli längre och längre.
 #Instalation
 ###Man istalerar spelet genom att man kopierar koden och sätter in den i ett C# program så som visual studio.
